@@ -13,7 +13,7 @@ setup(
     packages=['fbnq'],
     url='http://baidu.com',
     license='',
-    install_requires=['tornado==4.4.3', ],
+    install_requires=[''],
     author='ysj',
     author_email='479100885@qq.com',
     description='fbnq.fb  --with a cache funciton which can get the result faster than the other '
